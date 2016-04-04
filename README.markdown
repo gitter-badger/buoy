@@ -1,5 +1,7 @@
 # Better Angels' Buoy: A community-driven emergency dispatch system powered by friendship.
 
+[![Join the chat at https://gitter.im/betterangels/buoy](https://badges.gitter.im/betterangels/buoy.svg)](https://gitter.im/betterangels/buoy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | Branch   | Builds |
 | :------- |:------:|
 | `master` | [![Build Status for master branch](https://travis-ci.org/meitar/better-angels.svg?branch=master)](https://travis-ci.org/meitar/better-angels) |
